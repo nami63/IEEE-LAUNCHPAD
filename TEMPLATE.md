@@ -1,8 +1,8 @@
-# Full Nam
+# Namitha Manoj
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I am Namitha Manoj, a final-year BTech student at Cusat. I am currently pursuing my degree in Information Technology. I am passionate about technology and its applications, particularly in areas like full-stack development, data analytics, and artificial intelligence. My goal is to leverage my skills and knowledge to make a positive impact in the field of technology
 
 
 ## Portfolio Highlights
